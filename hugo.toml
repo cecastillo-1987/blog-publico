@@ -1,0 +1,5 @@
+baseURL = "https://cecastillo-1987.github.io/blog-publico/"
+languageCode = "es"
+title = "Mi Blog Hugo"
+theme = "nombre-del-tema"  # El tema que estés usando
+

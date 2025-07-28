@@ -1,0 +1,7 @@
+name = "TwentyTwentyThree Hugo"
+license = "MIT"
+licenselink = "https://opensource.org/licenses/MIT"
+description = "Adaptación de TwentyTwentyThree de WordPress a Hugo"
+homepage = "https://github.com/tuusuario/twentytwentythree-hugo"
+tags = ["blog", "minimal", "responsive"]
+min_version = "0.41"
